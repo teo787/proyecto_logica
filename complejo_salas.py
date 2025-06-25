@@ -1,6 +1,6 @@
 import numpy as np
 #ESTA CLASE SIGUE EN DESARROLLO. AUN NO SE HA TERMINADO NI IMPLEMENTADO
-
+#asda
 
 class Complejo_Salas():
 
